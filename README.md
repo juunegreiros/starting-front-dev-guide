@@ -106,6 +106,7 @@ Lembrando que essa lista é apenas um tracker, então está em ordem alfabética
     - [ ] Tamanho
     - [ ] Hierarquia Visual
     - [ ] Tipografia
+- [ ] Lógica de programação
 - [ ] Fundamentos JS (com es6) - gosto bastante do [EloquentJS](https://eloquentjavascript.net/)
 - [ ] Import/export JS e import CSS
 - [ ] Requisições HTTP e Fetch API
