@@ -5,7 +5,7 @@ Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que c
 ## Indice
 
 - [Lista de Conteúdos](#lista-de-conteudos)
-- [Lista de Conhecimentos Fundamentais](#lista-de-conhecimentos-fundamentais)
+- [Fundamentais](#lista-de-conhecimentos-fundamentais)
 - [Cronograma base](#cronograma-base)
 
 ## Lista de Conteúdos
@@ -92,19 +92,23 @@ Lembrando que essa lista é apenas um tracker, então está em ordem alfabética
 </details>
 
 
-## Lista de Conhecimentos Fundamentais
+## Fundamentais
 
-- [ ] HTML básico - semântica e tags
-- [ ] Fundamentos CSS
-- [ ] Posicionamentos e alinhamentos
-- [ ] Design Responsivo
-- [ ] SASS
-- [ ] Princípios de UI
-    - [ ] Cor e contraste
-    - [ ] Whitespace 
-    - [ ] Scale
+- [ ] Git + Github
+- [ ] HTML básico - semântica e tags 
+- [ ] Fundamentos CSS - o que é e 
+- [ ] Posicionamentos e alinhamentos - display flex e grid
+- [ ] Design Responsivo - media queries e mobile first
+- [ ] SASS - importante pra começar a manipular o css de uma forma diferente
+- [ ] UI - importante pra ter noção de como a tela se comporta e como deixar a tela acessível, mesmo que não vá criar nada do zero
+    - [ ] Cor e [contraste](https://contrastchecker.com/)
+    - [ ] Espaçamentos entre elementos
+    - [ ] Tamanho
     - [ ] Hierarquia Visual
     - [ ] Tipografia
+- [ ] Fundamentos JS (com es6) - gosto bastante do [EloquentJS](https://eloquentjavascript.net/)
+- [ ] Import/export JS e import CSS
+- [ ] Requisições HTTP e Fetch API
 
 ## Cronograma base
 
@@ -112,7 +116,8 @@ Vou dividir esse cronograma em fases, pra ficar um pouco mais simplificado. As a
 
 Para todos os projetos desenvolvidos:
 - Tudo no github (criando uma branch separada para trabalhar e abrindo Pull Request para revisão)
-- Quebrando os projetos em pequenas tarefas antes de começar e criando um card no Trello para cada tarefa. 
+- Quebrando os projetos em pequenas tarefas antes de começar e criando um card no Trello para cada tarefa.
+- Restrospectiva quinzenal pra analisar o que está dando certo e o que está faltando ou está com dificuldade.
 
 ### Fase 1 - lógica e básico de html e css
 
