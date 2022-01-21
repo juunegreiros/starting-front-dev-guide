@@ -4,11 +4,13 @@ Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que c
 
 ## Indice
 
-- [Lista de Conteúdos](#lista-de-conteudos) 
+- [Lista de Conteúdos](#lista-de-conteudos)
+- [Lista de Conhecimentos Fundamentais](#lista-de-conhecimentos-fundamentais)
+- [Cronograma base](#cronograma-base)
 
 ## Lista de Conteúdos
 
-Inicialmente, tivemos uma lista de conteúdos e formos marcando todos os que já tinham pelo menos noção do que era. Não tem problema não saber nenhum item da lista, inclusive. O mais importante aqui é se familiarizar com nomes e ter um tracking do que você está aprendendo com o passar do tempo.
+Inicialmente, tivemos uma lista de conteúdos e fomos marcando todos os que já tinham pelo menos noção do que era. Não tem problema não saber nenhum item da lista, inclusive. O mais importante aqui é se familiarizar com nomes e ter um tracking do que você está aprendendo com o passar do tempo.
 
 Separei esses conteúdos iniciais em quatro categorias: gerais, lógica de programação, HTML e CSS. Ignorei um pouco o JavaScript no comecinho, mas vou deixar aqui a lista de JS que usamos quando começamos com ele também. 
 
