@@ -167,15 +167,15 @@ Como o Trampolim usa React, priorizei o contato inicial com a ferramenta. Você 
 - Criação de API usando [json-server](https://github.com/typicode/json-server)
 - Consumir a API na todo-list. Aqui consumimos no React, mas poderia ser no VanillaJS (js puro) também.
 
-## Fase 7 - confiança com react + API
+### Fase 7 - confiança com react + API
 - Procurar uma [API pública](https://github.com/public-apis/public-apis) com um tema que goste
 - Fazer um aplicativo em React (ou com outra ferramenta que quiser) baseado nessa API 
 - Exemplo da [Larissa](https://github.com/lahgomes/spotify-minimalist) e da [Karina](https://github.com/karinaramos0401/catalog-anime)
 
-## Fase 8 - leitura de código e refatoração
+### Fase 8 - leitura de código e refatoração
 - Ler um código antigo (nesse caso foi esse [aqui](https://codepen.io/juunegreiros/pen/goGgKQ?editors=0010)) e refatorar
 - Exemplo [Larissa](https://github.com/lahgomes/refactor_form-login-and-signup) e [Karina](https://github.com/karinaramos0401/sign-up-)
 
-## Fase 9 - Plataforma
+### Fase 9 - Plataforma
 Desenvolvimento em projeto real.
 
