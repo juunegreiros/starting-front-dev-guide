@@ -4,11 +4,13 @@ Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que c
 
 ## Indice
 
-- [Lista de Conteúdos](#lista-de-conteudos) 
+- [Lista de Conteúdos](#lista-de-conteudos)
+- [Lista de Conhecimentos Fundamentais](#lista-de-conhecimentos-fundamentais)
+- [Cronograma base](#cronograma-base)
 
 ## Lista de Conteúdos
 
-Inicialmente, tivemos uma lista de conteúdos e formos marcando todos os que já tinham pelo menos noção do que era. Não tem problema não saber nenhum item da lista, inclusive. O mais importante aqui é se familiarizar com nomes e ter um tracking do que você está aprendendo com o passar do tempo.
+Inicialmente, tivemos uma lista de conteúdos e fomos marcando todos os que já tinham pelo menos noção do que era. Não tem problema não saber nenhum item da lista, inclusive. O mais importante aqui é se familiarizar com nomes e ter um tracking do que você está aprendendo com o passar do tempo.
 
 Separei esses conteúdos iniciais em quatro categorias: gerais, lógica de programação, HTML e CSS. Ignorei um pouco o JavaScript no comecinho, mas vou deixar aqui a lista de JS que usamos quando começamos com ele também. 
 
@@ -109,14 +111,14 @@ Lembrando que essa lista é apenas um tracker, então está em ordem alfabética
 Vou dividir esse cronograma em fases, pra ficar um pouco mais simplificado. As atividades das fases aconteciam em paralelo e, no nosso caso, como elas fazem 4 horas por dia, cada fase representa de 7 a 15 dias.
 
 Para todos os projetos desenvolvidos:
-- Tudo no github (criando ma branch separada para trabalhar e abrindo Pull Request para revisão)
-- Quebrando todos os projetos em pequenos pedaços antes de começar e criando um card no Trello para cada pedaço. 
+- Tudo no github (criando uma branch separada para trabalhar e abrindo Pull Request para revisão)
+- Quebrando os projetos em pequenas tarefas antes de começar e criando um card no Trello para cada tarefa. 
 
 ### Fase 1 - lógica e básico de html e css
 
 - **Lógica de programação**: Fases do [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) todos os dias.
 - **HTML + CSS + noções de design**: site pessoal.
-    - Layout no figma: a ideia aqui é ser algo que você goste, não precisa ficar perfeito, mas é importante ter seu nome, imagem (não necessariamente sua), um textinho e links de contato. Além disso, a criação do layout foi importante para treinar desde o começo a quebrar 
+    - Layout no figma: a ideia aqui é ser algo que você goste, não precisa ficar perfeito, mas é importante ter seu nome, imagem (não necessariamente sua), um textinho e links de contato.
     - Criação do repositório com o nome da conta + github.io
     - Desenvolvimento em HTML + CSS e rodando no github pages.
     - Exemplo da [Larissa](https://github.com/lahgomes/lahgomes.github.io) e da [Karina](https://github.com/karinaramos0401/karinaramos0401.github.io)
@@ -156,7 +158,8 @@ Para todos os projetos desenvolvidos:
     - Formulário de envio de e-mail
 
 ### Fase 5 - introdução ao react
-Acredito que dê pra inverter com a fase 6, priorizei iniciar com o React por ser a linguagem que é utilizada na plataforma do Trampolim.
+Como o Trampolim usa React, priorizei o contato inicial com a ferramenta. Você pode inverter a fase 5 com a 6, já que a 5 não depende de ferramenta.
+
 - Migrar a todo-list para React
     - Exemplo [Larissa](https://github.com/lahgomes/todo-list-react) e [Karina](https://github.com/karinaramos0401/to-do-list-react)
 
@@ -165,7 +168,7 @@ Acredito que dê pra inverter com a fase 6, priorizei iniciar com o React por se
 - Consumir a API na todo-list. Aqui consumimos no React, mas poderia ser no VanillaJS (js puro) também.
 
 ## Fase 7 - confiança com react + API
-- Procurar uma [API publica](https://github.com/public-apis/public-apis) com um tema que goste
+- Procurar uma [API pública](https://github.com/public-apis/public-apis) com um tema que goste
 - Fazer um aplicativo em React (ou com outra ferramenta que quiser) baseado nessa API 
 - Exemplo da [Larissa](https://github.com/lahgomes/spotify-minimalist) e da [Karina](https://github.com/karinaramos0401/catalog-anime)
 
