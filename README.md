@@ -10,45 +10,53 @@ Separei esses conteúdos iniciais em quatro categorias: web, lógica de programa
 
 <details>
     <summary>Web</summary>
-    [ ] Inspecionador de Elementos
-    [ ] Servidor
-    [ ] Diferenças entre Back End e Front End
-    [ ] Git
-    [ ] Scrum
+
+- [ ] Inspecionador de Elementos
+- [ ] Servidor
+- [ ] Diferenças entre Back End e Front End
+- [ ] Git
+- [ ] Scrum
+
 </details>
 
 <details>
     <summary>Lógica de Programação</summary>
-    [ ] Variáveis
-    [ ] Operações aritméticas (soma, multiplicação, etc)
-    [ ] Operações condicionais (maior que, igual que, etc)
-    [ ] Operação de negação
-    [ ] Estrutura condicional (if/else)
-    [ ] Estrutura de repetição (for, while, etc)
-    [ ] Tipos de dados (number, string, boolean, etc)
-    [ ] Objetos
-    [ ] Arrays
+
+- [ ] Variáveis
+- [ ] Operações aritméticas (soma, multiplicação, etc)
+- [ ] Operações condicionais (maior que, igual que, etc)
+- [ ] Operação de negação
+- [ ] Estrutura condicional (if/else)
+- [ ] Estrutura de repetição (for, while, etc)
+- [ ] Tipos de dados (number, string, boolean, etc)
+- [ ] Objetos
+- [ ] Arrays
+
 </details>
 
 <details>
     <summary>HTML</summary>
-    [ ] O que é
-    [ ] Semântica
-    [ ] Formulário
-    [ ] Acessibilidade
-    [ ] SVG
+
+- [ ] O que é
+- [ ] Semântica
+- [ ] Formulário
+- [ ] Acessibilidade
+- [ ] SVG
+
 </details>
 
 <details>
     <summary>CSS</summary>
-    [ ] Grid
-    [ ] Flexbox
-    [ ] Estilização de texto
-    [ ] After e Before
-    [ ] Animações
-    [ ] Imagens
-    [ ] Formulário
-    [ ] Box Model
-    [ ] Display
-    [ ] Position
+
+- [ ] Grid
+- [ ] Flexbox
+- [ ] Estilização de texto
+- [ ] After e Before
+- [ ] Animações
+- [ ] Imagens
+- [ ] Formulário
+- [ ] Box Model
+- [ ] Display
+- [ ] Position
+
 </details>
