@@ -4,8 +4,8 @@ Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que c
 
 ## Indice
 
-- [Lista de Conteúdos](#lista-de-conteudos)
-- [Fundamentais](#lista-de-conhecimentos-fundamentais)
+- [Lista de Conteúdos](#lista-de-conteúdos)
+- [Fundamentais](#fundamentais)
 - [Cronograma base](#cronograma-base)
 
 ## Lista de Conteúdos
