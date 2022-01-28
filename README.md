@@ -1,6 +1,6 @@
 # Um guia pra começar no mundo do Front End
 
-Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que contratei pelo Projeto Trampolim e para ser utilizado inicialmente em uma palestra no [Hack the FEG](https://www.even3.com.br/htf2021/). 
+Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que contratei pelo Projeto Trampolim e para ser utilizado inicialmente em uma palestra no [Hack the FEG](https://www.even3.com.br/htf2021/), você pode conferir o [vídeo aqui](https://www.youtube.com/watch?v=75TSb99ZuKw) e os [slides aqui](https://speakerdeck.com/juunegreiros/um-guia-para-comecar-no-mundo-front-end). 
 
 ## Indice
 
