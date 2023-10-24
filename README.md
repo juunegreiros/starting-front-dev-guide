@@ -1,6 +1,6 @@
 # Um guia pra começar no mundo do Front End
 
-Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que contratei pelo Projeto Trampolim e para ser utilizado inicialmente em uma palestra no [Hack the FEG](https://www.even3.com.br/htf2021/), você pode conferir o [vídeo aqui](https://www.youtube.com/watch?v=75TSb99ZuKw) e os [slides aqui](https://speakerdeck.com/juunegreiros/um-guia-para-comecar-no-mundo-front-end). 
+Fiz esse guia baseado no processo que uso com o pessoal que dou mentoria e que contratei pelo Projeto Toraline e para ser utilizado inicialmente em uma palestra no [Hack the FEG](https://www.even3.com.br/htf2021/), você pode conferir o [vídeo aqui](https://www.youtube.com/watch?v=75TSb99ZuKw) e os [slides aqui](https://speakerdeck.com/juunegreiros/um-guia-para-comecar-no-mundo-front-end). 
 
 ## Indice
 
@@ -158,13 +158,13 @@ Para todos os projetos desenvolvidos:
 
 ### Fase 4 - sass, manipulação de data, mais manipulação de DOM, formulários
 - **Javascript**: terminar a migração dos exercícios resolvidos do Human Resource Machine para JavaScript.
-- Desenvolvimento da landing page do Projeto Trampolim (que ainda não está no ar).
+- Desenvolvimento da landing page do Toraline (que ainda não está no ar).
     - HTML + CSS
     - Countdown de data
     - Formulário de envio de e-mail
 
 ### Fase 5 - introdução ao react
-Como o Trampolim usa React, priorizei o contato inicial com a ferramenta. Você pode inverter a fase 5 com a 6, já que a 5 não depende de ferramenta.
+Como o Toraline usa React, priorizei o contato inicial com a ferramenta. Você pode inverter a fase 5 com a 6, já que a 5 não depende de ferramenta.
 
 - Migrar a todo-list para React
     - Exemplo [Larissa](https://github.com/lahgomes/todo-list-react) e [Karina](https://github.com/karinaramos0401/to-do-list-react)
